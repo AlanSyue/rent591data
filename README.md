@@ -1,11 +1,11 @@
 # 591 租屋網 - 租屋資訊爬蟲
 
 安裝:
-pip install requests
-pip install BeautifulSoup4
-pip install time
-pip install selenium
-下載 chrome driver
+1. pip install requests
+2. pip install BeautifulSoup4
+3. pip install time
+4. pip install selenium
+5. 下載 chrome driver
 
 步驟：
 1. 執行 591RentData.py
