@@ -89,7 +89,7 @@ def main(outputfile):
                 
 if __name__ == '__main__':
     # -------- configurable parameter -------- #
-    output_file_name = 'tpe_rent_test.csv'
+    output_file_name = 'tpe_rent_output.csv'
     # ---------------------------------------- #
     main(output_file_name)
     print('\nfinish!')
