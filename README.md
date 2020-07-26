@@ -10,3 +10,8 @@
 步驟：
 1. 執行 591RentData.py
 2. 產出 output.csv
+
+共同開發者：
+[Ninacheng222](https://github.com/Ninacheng222/rent591data)
+
+
